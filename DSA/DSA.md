@@ -1,6 +1,6 @@
 ---
 created: 2026-08-23T18:29
-updated: 2026-08-23T20:27
+updated: 2026-09-22T18:44
 ---
 
 
@@ -13,6 +13,17 @@ visits the nodes in increasing order of their distance from starting node
 
 [[Bellman-ford]]
 shortest path from starting node to all nodes
+
+[[Topo Sort]]
+an ordering of the nodes of a directed graph such that if there is a path from node a to node b, then node a appears before node b in the ordering
+
+
+**Tree**
+[[Tree Traversal]]
+A tree is connected, acuclic grapg that consists of n nodes and n-1 edges. Removing any edges from a tree divides it into two components, and adding any edge to a tree creates a ctcle. 
+A tree will always have a unique path between two nodes of a tree
+
+**imp** there is a difference btw rooted tree and just tree
 
 
 _**[[CP Handbook]]**_

@@ -1,6 +1,6 @@
 ---
 created: 2026-09-11T17:24
-updated: 2026-09-11T22:46
+updated: 2026-09-17T19:04
 ---
 rand() function of c uses a seed to generate the random number, the seed is generated bu a pseudorandom number generator(PRNG) if no call to srand() the see defaults to 1
 
@@ -22,6 +22,30 @@ Then bring them infinitely close together.
 We don't make hh go to zero **because the function is continuous**.
 
 We make h→0h\to0 because we want the **instantaneous rate of change at exactly aa**.
+
+**MCP Knowledge Servers**
+1> Enterprise MCP, Express AI Atlas, standards+meta arch
+2> Distribution MCP, contracts+schemas, repodocs+ jira
+
+Ent MCP -> TIAA standards, ADRs, meta-architecture
+Distribution MCP -> Domain knowledge server- contracts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
