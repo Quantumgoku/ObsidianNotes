@@ -1,6 +1,6 @@
 ---
 created: 2026-10-28T20:21
-updated: 2026-10-28T20:21
+updated: 2026-10-28T20:22
 ---
 # Knowledge Base
 
@@ -8,7 +8,7 @@ A personal collection of notes, concepts, experiments, and references gathered w
 
 This repository is my long-term knowledge store—a place to document what I learn, revisit concepts, connect ideas across disciplines, and keep useful information accessible.
 
-The contents span computer science, mathematics, programming languages, machine learning, networking, software engineering, and project-specific notes. Some pages contain detailed explanations; others are quick references, code snippets, observations, or ideas worth exploring later.
+The contents span computer science, mathematics, programming languages, machine learning, networking, software engineeriand project-specific notes. Some pages contain detailed explanations; others are quick references, code snippets, observations, or ideas worth exploring later.
 
 ## What's Inside
 
